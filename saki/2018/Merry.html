@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title></title>
+    <link href="https://fonts.googleapis.com/css?family=Charm" rel="stylesheet">
+    <style>
+        * {
+            font-family: 'Charm', cursive;
+        }
+        body {
+            height: 100%;
+            width: 100%;
+            background: url(./bg.jpg);
+            overflow: hidden;
+            margin: 0;
+        }
+        .container {
+            text-align: center;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%,-50%);
+            width: 100%;
+        }
+        .container span {
+            //color: white;
+            display: block;
+        }
+        .text1 {
+            font-size: 60px;
+            font-weight: bold;
+            letter-spacing: 4px;
+            margin-bottom: 20px;
+            background: url(./text-bg.jpg);
+            background-clip: text;
+            -webkit-background-clip: text;
+            color: transparent;
+            animation: moveBg 9s linear infinite;
+            -webkit-animation: moveBg 9s linear infinite;
+
+        }
+        @keyframes moveBg {
+            0% {
+                background-position: 0% 0%;
+            }
+            100% {
+                background-position: 100% 100%;
+            }
+        }
+        .text2 {
+            font-size: 30px;
+            color: #6ab04c;
+        }
+        .wrapcv {
+            height: 100%;
+            width: 100%;
+            position: relative;
+            z-index: 5;
+        }
+    </style>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script type="text/javascript">
+        $(function(){
+            /*
+            function resize() {
+                $('#canvas' ).get( 0 ).width = $( window ).width();
+                $('#canvas' ).get( 0 ).height = $( window ).height();
+            };
+            resize();
+            */
+
+            var snows = new Array();
+            var canvas = document.getElementById('canvas');
+            var ctx = canvas.getContext('2d');
+            var wd_width = window.innerWidth;
+            var wd_height = window.innerHeight;
+            ctx.canvas.width = wd_width;
+            ctx.canvas.height = wd_height;
+            var animFrame = window.requestAnimationFrame   ||
+                window.webkitRequestAnimationFrame ||
+                window.mozRequestAnimationFrame    ||
+                window.oRequestAnimationFrame      ||
+                window.msRequestAnimationFrame     ||
+                function(callback){
+                    window.setTimeout(callback, 1000 / 60);
+                };
+
+            function canvas_resize() {
+                canvas.setAttribute('width', window.innerWidth);
+                canvas.setAttribute('height', window.innerHeight);
+            }
+            window.addEventListener('resize', canvas_resize, false);
+            canvas_resize();
+            function getRandomInt(min, max) {
+                return Math.floor( Math.random() * (max - min + 1) ) + min;
+            }
+            function snow() {
+                this.position_x = getRandomInt(0, wd_width);
+                this.position_y = getRandomInt(0, wd_height);
+                this.snow_size = getRandomInt(1, 4);
+                this.speed = getRandomInt(1, 3);
+                this.wind = getRandomInt(0, 0.5);
+            }
+            snow.prototype.draw = function() {
+                var snow_grad = ctx.createRadialGradient(
+                    this.position_x,
+                    this.position_y,
+                    this.snow_size * 0.6,
+                    this.position_x,
+                    this.position_y,
+                    this.snow_size
+                );
+                snow_grad.addColorStop(0, 'rgba(225, 225, 225, 0.8)');
+                snow_grad.addColorStop(0.5, 'rgba(225, 225, 225, 0.2)');
+                snow_grad.addColorStop(1, 'rgba(225, 225, 225, 0.1)');
+                ctx.beginPath();
+                ctx.fillStyle = snow_grad;
+                ctx.arc( this.position_x, this.position_y, this.snow_size, 0, Math.PI * 2);
+                ctx.fill();
+                ctx.closePath();
+            }
+            snow.prototype.move = function() {
+                this.positioni_x += this.wind + Math.sin(this.position_y/20)*0.3;
+                this.position_y += this.speed;
+                if (this.position_y > ctx.canvas.height) {
+                    this.position_y = 0;
+                    this.position_x = getRandomInt(0, wd_width);
+                }
+            }
+            function snow_density(snow_count) {
+                for(var num=0; num<snow_count; num++) {
+                    snows[num] = new snow();
+                }
+            }
+            function snow_draw() {
+                ctx.clearRect(0,0, wd_width, wd_height);
+                for(var num=0; num < snows.length; num++) {
+                    snows[num].draw();
+                }
+            }
+            function snow_move() {
+                for(var num=0; num < snows.length; num++) {
+                    snows[num].move();
+                }
+            }
+            function loop() {
+                snow_draw();
+                snow_move();
+                animFrame(loop);
+            }
+
+            snow_density(80);
+            loop();
+        });
+    </script>
+</head>
+<body>
+    <div class="container">
+        <span class="text1">Merry Christmas</span>
+        <span class="text2">Saki Sosuke Sayuki</span>
+    </div>
+    <div class="wrapcv">
+        <canvas id="canvas" width="1" height="1"></canvas>
+    </div>
+</body>
+
