@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>FeedWind Blog</title>
+	<atom:link href="https://feed.mikle.com/blog/" rel="self" type="application/rss+xml" />
+	<link>https://feed.mikle.com/blog/</link>
+	<description>Grab the latest news, tips and information about FeedWind</description>
+	<lastBuildDate>Fri, 22 Mar 2019 08:21:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.15</generator>
+	<item>
+		<title>Beef Up Your Titles</title>
+		<link>https://feed.mikle.com/blog/make-titles-bold</link>
+		<pubDate>Sun, 05 Nov 2017 00:41:06 +0000</pubDate>
+		<dc:creator><![CDATA[feedwind]]></dc:creator>
+				<category><![CDATA[Features]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[bold]]></category>
+		<category><![CDATA[bolf titles]]></category>
+		<category><![CDATA[titles]]></category>
+
+		<description><![CDATA[Introducing a new feature to allow you to make titles bold in your FeedWind widgets. You can now make titles bold so they more visible to your users and/or match your website styling. It was already possible to bold titles by using a custom CSS but we thought it would be useful to many of our<a class="read-more" href="https://feed.mikle.com/blog/">Read More</a>]]></description>
+				<content:encoded><![CDATA[<hr />
+<h2><strong>Introducing a new feature to allow you to make titles bold in your FeedWind widgets.</strong></h2>
+<p>You can now make titles bold so they more visible to your users and/or match your website styling. It was already possible to bold titles by using a <a href="https://feed.mikle.com/support/custom-css/" target="_blank" rel="noopener noreferrer">custom CSS</a> but we thought it would be useful to many of our users to have simple On/Off functionality in the setup screen.</p>
+<p>You can find out how to style fonts in our <a href="https://feed.mikle.com/support/fonts/#ftb" target="_blank" rel="noopener noreferrer">tutorial</a> which has information about this new feature and other information about font styling. You can check out the new feature now by <a href="https://feed.mikle.com/" target="_blank" rel="noopener noreferrer">logging into your account</a> and checking out the updated setup screen.</p>
+<p><strong><em>Here&#8217;s a quick preview of the new setup options and where to find them:</em></strong></p>
+<h3>MAIN TITLE BOLD STYLING</h3>
+<p>This is found in the <strong>Feed Title section &gt; Advanced settings</strong>.</p>
+<p><img class="aligncenter wp-image-1007 size-full" src="https://feed.mikle.com/blog/wp-content/uploads/2017/11/bold02.jpg" alt="make titles bold - main title" width="760" height="351" srcset="https://feed.mikle.com/blog/wp-content/uploads/2017/11/bold02.jpg 760w, https://feed.mikle.com/blog/wp-content/uploads/2017/11/bold02-300x139.jpg 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" /></p>
+<h3>FEED ITEM TITLE BOLD STYLING</h3>
+<p>This is found in the <strong>Feed Content section &gt; Advanced settings</strong>.</p>
+<p><img class="aligncenter wp-image-1008 size-full" src="https://feed.mikle.com/blog/wp-content/uploads/2017/11/bold01.jpg" alt="make titles bold - feed item titles" width="760" height="433" srcset="https://feed.mikle.com/blog/wp-content/uploads/2017/11/bold01.jpg 760w, https://feed.mikle.com/blog/wp-content/uploads/2017/11/bold01-300x171.jpg 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" /></p>
+<hr />
+<p><em><strong>If you need any assistance to make titles bold or any other aspect of FeedWind, please contact us <a href="https://feed.mikle.com/contact/">contact us</a> and we&#8217;ll be happy to help out!</strong></em></p>
+<hr />
+<p>&nbsp;</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>IMPORTANT UPDATE &#8211; DISPLAY ISSUES</title>
+		<link>https://feed.mikle.com/blog/important-update-display-issues</link>
+		<pubDate>Tue, 17 Oct 2017 01:59:52 +0000</pubDate>
+		<dc:creator><![CDATA[feedwind]]></dc:creator>
+				<category><![CDATA[News]]></category>
+
+		<description><![CDATA[UPDATE Oct 20th 2017 We have now corrected the error causing an incorrect container size for widgets. For new users, the problem will not present itself. Some existing users might still experience incorrectly-sized widgets. This can be resolved using the cache clearing method explained below, after which you should not experience this issue. IMPORTANT NEWS Oct<a class="read-more" href="https://feed.mikle.com/blog/">Read More</a>]]></description>
+				<content:encoded><![CDATA[<h3>UPDATE Oct 20th 2017</h3>
+<p><img class="size-full wp-image-1066 alignright" src="https://feed.mikle.com/blog/wp-content/uploads/2017/10/fw-updates.jpg" alt="" width="200" height="200" srcset="https://feed.mikle.com/blog/wp-content/uploads/2017/10/fw-updates.jpg 200w, https://feed.mikle.com/blog/wp-content/uploads/2017/10/fw-updates-150x150.jpg 150w" sizes="(max-width: 200px) 85vw, 200px" /></p>
+<p style="text-align: left;">We have now corrected the error causing an incorrect container size for widgets. For new users, the problem will not present itself. Some existing users might still experience incorrectly-sized widgets. This can be resolved using the cache clearing method explained below, after which you should not experience this issue.</p>
+<h3>IMPORTANT NEWS Oct 17th 2017</h3>
+<p>Since a program change we made recently, you may notice your widgets are not displaying at full size (widgets are displaying at 115px x 115px). We apologize for any inconvenience.</p>
+<p>The offending javascript causing this issue is in the code snippet:</p>
+<p>[Applicable javascript file] <em>https://feed.mikle.com/js/fw-loader.js</em></p>
+<p>However, if you are visiting your site for the first time, or if your cache from your last visit has expired, there will be no display problems. This will automatically resolve when your cache is refreshed</p>
+<p>To correct this manually, you can use either of these 2 solutions:</p>
+<h3><strong>Solution 1</strong></h3>
+<p><strong>Clear your browser cache</strong>. You can do this by using:</p>
+<p>Windows: &#8220;CTRL+F5&#8221;<br />
+Mac: &#8220;Command + R&#8221;</p>
+<p>However, while you do not need to change any code, it is necessary for site visitors to clear their cache.</p>
+<h3><strong>Solution 2</strong></h3>
+<p><strong>Assign parameters to javascript</strong> in the pasted code as shown below. This solution requires you to edit the code pasted on your site(s):</p>
+<p>Specifically, it adds a parameter like ? Ver = 20171016 to the end of fw &#8211; loader.js as shown in the red letter below . The content of the parameter is optional.</p>
+<p><span style="color: #800000;">&lt;Script type = &#8220;text / javascript&#8221; src = &#8220;https://feed.mikle.com/js/fw-loader.js ? Ver = 20171016 &#8221; data-fw-param = &#8220;5 /&#8221;&gt; &lt;/ script&gt;</span></p>
+<p><strong>If you have any questions about this matter, please contact us through our <a href="https://feed.mikle.com/contact/" target="_blank" rel="noopener noreferrer">contact form</a> .</strong></p>
+<p>We sincerely apologize for any inconvenience.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>FeedWind Pro PayPal subscribers &#8211; renewals</title>
+		<link>https://feed.mikle.com/blog/feedwind-pro-paypal-subscribers-renewals</link>
+		<pubDate>Thu, 07 Sep 2017 09:06:40 +0000</pubDate>
+		<dc:creator><![CDATA[feedwind]]></dc:creator>
+				<category><![CDATA[Article]]></category>
+
+		<description><![CDATA[We no longer accept PayPal as a payment method We recently introduced a new automated payment system to upgrade from our existing manual system for FeedWind Pro subscribers. Previously we accepted PayPal as a payment method. However, our new payment system does not accept PayPal payments, so for those existing users who are due for<a class="read-more" href="https://feed.mikle.com/blog/">Read More</a>]]></description>
+				<content:encoded><![CDATA[<h2>We no longer accept PayPal as a payment method</h2>
+<p><img class="size-full wp-image-1070 alignright" src="https://feed.mikle.com/blog/wp-content/uploads/2017/09/fw-pro-paypal.jpg" alt="" width="200" height="200" srcset="https://feed.mikle.com/blog/wp-content/uploads/2017/09/fw-pro-paypal.jpg 200w, https://feed.mikle.com/blog/wp-content/uploads/2017/09/fw-pro-paypal-150x150.jpg 150w" sizes="(max-width: 200px) 85vw, 200px" /></p>
+<p>We recently introduced a new automated payment system to upgrade from our existing manual system for FeedWind Pro subscribers. Previously we accepted PayPal as a payment method. However, our new payment system does not accept PayPal payments, so for those existing users who are due for renewal we will require payment for the renewal by credit or debit card.</p>
+<p><em>We understand that this change in payment options might be an inconvenience for PayPal subscribers, so for those users we are offering a discount of $39 when you renew using a credit/debit payment using the new automated system.</em></p>
+<h3>So how do I upgrade my PayPal Pro account to the new system?</h3>
+<p>All you have to do is visit our <a href="https://feed.mikle.com/plans/" target="_blank" rel="noopener noreferrer">payments page</a> and enter you payment details (credit/debit card).<strong> We will not charge your card immediately. We will only charge the card on the renewal/expiry date. </strong></p>
+<p>To compensate you for the inconvenience we will apply the $39 discount at that time. If you decide to cancel before your renewal is due then just let us know and we will prevent any further charges from being made.</p>
+<p>If you have any questions about this process or anything to do with FeedWind, then please do not hesitate to <a href="https://feed.mikle.com/contact/" target="_blank" rel="noopener noreferrer">contact us</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Introducing Our New &#8220;Plus Plan&#8221; &#8211; Save More Widgets!</title>
+		<link>https://feed.mikle.com/blog/feedwind-plus-plan</link>
+		<pubDate>Wed, 23 Aug 2017 23:10:29 +0000</pubDate>
+		<dc:creator><![CDATA[feedwind]]></dc:creator>
+				<category><![CDATA[Article]]></category>
+		<category><![CDATA[Features]]></category>
+
+		<description><![CDATA[The new FeedWind &#8220;Plus&#8221; plan Today we are pleased to announce the release of a new subscription plan to allow you to save more widgets. The new Plus plan is $179 per year and allows you to store up to 50 widgets (the Pro plan allows for 20). Now you can create even more widgets under<a class="read-more" href="https://feed.mikle.com/blog/">Read More</a>]]></description>
+				<content:encoded><![CDATA[<h2>The new FeedWind &#8220;Plus&#8221; plan</h2>
+<h3>Today we are pleased to announce the release of a new subscription plan to allow you to save more widgets.</h3>
+<p>The new Plus plan is $179 per year and allows you to store up to 50 widgets (the Pro plan allows for 20). Now you can create even more widgets under one subscription account! You can find out more about our subscription plans at our <a href="/support/feedwind-plans/" target="_blank" rel="noopener noreferrer">FAQ page</a>.</p>
+<p><a href="https://feed.mikle.com/plans/"><img class="aligncenter wp-image-3837 size-full" src="https://feed.mikle.com/blog/wp-content/uploads/sites/2/2017/05/plus-plan.jpg" alt="feedwind plus plan" width="760" height="509" /></a></p>
+<p style="text-align: center;"><strong>If you would like to check out the new Plus plan with a free 14-day trial, head on over to our <a href="https://feed.mikle.com/pro/" target="_blank" rel="noopener noreferrer">subscriptions page</a>.</strong></p>
+<hr />
+<p>&nbsp;</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Content syndication &#8211; more popular than ever!</title>
+		<link>https://feed.mikle.com/blog/is-rss-dead</link>
+		<pubDate>Sun, 06 Aug 2017 00:51:21 +0000</pubDate>
+		<dc:creator><![CDATA[feedwind]]></dc:creator>
+				<category><![CDATA[Article]]></category>
+
+		<description><![CDATA[Is RSS dead? You may well ask if RSS is dead, but in reality RSS is very much alive and kicking. It is true that a number of major content providers such as Facebook, Instagram and Pinterest have deprecated their RSS services. Driven by changes to preferred feed mechanisms, many large information and social media sources<a class="read-more" href="https://feed.mikle.com/blog/">Read More</a>]]></description>
+				<content:encoded><![CDATA[<h2>Is RSS dead?</h2>
+<p>You may well ask if RSS is dead, but in reality RSS is very much alive and kicking. It is true that a number of major content providers such as Facebook, Instagram and Pinterest have deprecated their RSS services. Driven by changes to preferred feed mechanisms, many large information and social media sources are moving towards the use of APIs as opposed to RSS. This is mostly a matter of economy and convenience for them as their APIs are used for all manner of software applications. Using the same APIs to provide feed generation allows them to reduce the resources previously required to deliver content via RSS.</p>
+<h3>RSS is still very popular</h3>
+<p><img class="alignright wp-image-891" src="https://feed.mikle.com/blog/wp-content/uploads/2017/08/rss-is-not-dead-yet.png" alt="is rss dead" width="192" height="192" srcset="https://feed.mikle.com/blog/wp-content/uploads/2017/08/rss-is-not-dead-yet.png 350w, https://feed.mikle.com/blog/wp-content/uploads/2017/08/rss-is-not-dead-yet-150x150.png 150w, https://feed.mikle.com/blog/wp-content/uploads/2017/08/rss-is-not-dead-yet-300x300.png 300w" sizes="(max-width: 192px) 85vw, 192px" />So is RSS dead?..Not for tens of millions of WordPress and other popular CMS users/publishers. RSS is still the most convenient method to feed data from web pages. RSS is built into most CMS platforms so it makes sense to use this functionality. Obviously sites like Instagram, Pinterest and Facebook are built on a proprietary platform.</p>
+<p>This means that providing and supporting RSS feeds requires specific resources to maintain service levels. Facebook for example, already provides this information through their <a href="https://developers.facebook.com/docs/graph-api" target="_blank" rel="noopener noreferrer">Facebook Graph API</a>, which is designed for programmers to build Facebook software and apps. At FeedWind we wrote our own software which accesses the Facebook API to extract information which we combine into a feed.</p>
+<h3>Re-using code is not an option</h3>
+<p><img class="wp-image-893 alignleft" src="https://feed.mikle.com/blog/wp-content/uploads/2017/08/recycle.png" alt="is rss alive" width="132" height="132" srcset="https://feed.mikle.com/blog/wp-content/uploads/2017/08/recycle.png 350w, https://feed.mikle.com/blog/wp-content/uploads/2017/08/recycle-150x150.png 150w, https://feed.mikle.com/blog/wp-content/uploads/2017/08/recycle-300x300.png 300w" sizes="(max-width: 132px) 85vw, 132px" />If the world of software was simple, we could simply reuse that code to provide support for Instagram and many other social media providers. Unfortunately each of these platforms has a different API so the code we write to extract a feed from an API is different from each platform we support. Obviously there is some code we recycle but overall, a lot of programming effort goes into each platform we support.</p>
+<p>Let&#8217;s take a quick look at RSS feeds and what they are. Many people think RSS is a simple standard that uses XML to deliver website content in a markup format which contains no formatting data. To an extent this is true. In fact, feeds can be one of <a href="https://feed.mikle.com/blog/#t15" target="_blank" rel="noopener noreferrer">five versions of the RSS standard</a>, or one of two versions of the Atom standard (a similar markup specification for feeds).</p>
+<p>In amongst this, FeedWind has to be able to figure out which of these standards a particular feed adheres to. Fortunately this information is included in the header of a valid feed so this is not the big challenge.</p>
+<h3>Feed parsing</h3>
+<p>Things do get complex when detecting and parsing to determine relevant elements for inclusion in your widget. A good example of this challenge is in deciding which image we should select as a thumbnail. We have to detect language, feed title, item titles plus their descriptions, images, timezones, date/time formats and deal with content in XML that is not relevant to the display of a feed. For Google calendar we have to extract different information such as event data.</p>
+<h3>Determining feed origin</h3>
+<p>Once we have achieved this we also have to determine what origin the feed has. Is it a <a href="https://feed.mikle.com/support/youtube-rss/" target="_blank" rel="noopener noreferrer">YouTube channel</a>, <a href="https://feed.mikle.com/support/create-facebook-widget/" target="_blank" rel="noopener noreferrer">Facebook feed</a>, <a href="https://feed.mikle.com/support/google-calendar-rss/" target="_blank" rel="noopener noreferrer">Google Calendar feed</a> or a regular RSS feed? These all require a specific approach when it comes to parsing the content for display in our widget. A YouTube feed for example requires a video player; as mentioned above,  Facebook feed requires us to use the Facebook Graph API in order to extract the feed data which is not in XML like a regular RSS feed and Google Calendar has different information from other feeds such as event data which are not a component of other RSS feeds.</p>
+<h3>Ever more complex solutions</h3>
+<p>All this amounts to a complex backend to our system to cope with all these varied feed sources and mechanisms. Presently we require our users to select which feed type they want to display so that does make things a little easier (in the setup process users must select RSS/Facebook/Gcal as their source feed). However, from that point onwards, our software puts in a lot of hard work to format and present your feeds in a widget that can be customized in so many ways with little effort from the user.</p>
+<p>We are constantly asked for expansions to our widget service to include online platforms which do not offer RSS as a feed format. Instagram and Pinterest for example, have joined others in abandoning RSS in favor of alternative methods for providing a feed source. Each one of these requires a significant programming effort for us to be able to display feeds generated from their APIs. We are actively working on these with Instagram most likely the first in a series of releases which will add support for more platforms.</p>
+<h3>Need to look good? ..you need a customizable widget!</h3>
+<p>There are services out there which offer a huge range of support for platforms whose feeds are API driven. However, they do not offer the same level of customization or features that FeedWind provides. Many have fixed format displays or templates, branding/advertising (which is generally obtrusive) and only a basic level of possible customizations.</p>
+<p>We have focused on providing a consistent interface which can be used to customize/format feed content to match user needs rather than providing a basic, common widget format/display. A fixed format for a widget makes it difficult to match website design. For his treason, this type of widget will often stand out and can make a site look amateurish from a design perspective. Feedwind offers full CSS customization so our widgets can seamlessly integrate into nearly any website/CMS.</p>
+<div style="display: block; margin: 0px; text-align: center;"><a href="https://feed.mikle.com/"><br />
+<button style="color: white; background-color: #237ffc; border-radius: 53px; border: 0px solid #fff; padding: 10px 25px; font-weight: 300;" type="button">Try FeedWind Now</button><br />
+</a></div>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Changing a Link Target in 3rd Party Content</title>
+		<link>https://feed.mikle.com/blog/changing-link-target-in-3rd-party-content</link>
+		<pubDate>Tue, 25 Jul 2017 23:08:22 +0000</pubDate>
+		<dc:creator><![CDATA[feedwind]]></dc:creator>
+				<category><![CDATA[Article]]></category>
+		<category><![CDATA[Tips]]></category>
+		<category><![CDATA[Tutorial]]></category>
+
+		<description><![CDATA[We are often asked whether it is possible to change the link target for links in feeds. This article explains why we do not allow link targets to be changed using our interface. When a feed is published by a 3rd party (for example Reuters, BBC News or even a Facebook feed), there will be in nearly<a class="read-more" href="https://feed.mikle.com/blog/">Read More</a>]]></description>
+				<content:encoded><![CDATA[<p><img class="alignright wp-image-840" src="https://feed.mikle.com/blog/wp-content/uploads/2017/07/rss-copyright.png" alt="link target" width="162" height="162" srcset="https://feed.mikle.com/blog/wp-content/uploads/2017/07/rss-copyright.png 223w, https://feed.mikle.com/blog/wp-content/uploads/2017/07/rss-copyright-150x150.png 150w" sizes="(max-width: 162px) 85vw, 162px" />We are often asked whether it is possible to change the link target for links in feeds. This article explains why we do not allow link targets to be changed using our interface.</p>
+<p>When a feed is published by a 3rd party (for example Reuters, BBC News or even a Facebook feed), there will be in nearly every case, a &#8220;Terms and Conditions of Use associated with that feed. For example a Facebook feed will contain images owned by either Facebook or by the user who published that page.</p>
+<h3>Copyright law applies to a link target</h3>
+<p>While you can disable these links, you cannot (legally, for copyright and &#8220;terms of use&#8221;  reasons) change the link target to another site. i.e. your image links cannot be redirected to a different website. This will be in direct contravention of the terms of use of the RSS feed publisher in 90% of cases.</p>
+<p>In all cases, directing the photo to another link is also in contravention of copyright as under those laws, <strong>you are not permitted to change content for your own gain unless you have explicit permission from the owner</strong>. Neither can you change an outgoing  link from an image as it would be deemed usage of that image for gain, which copyright law does not accommodate unless agreement with the owner is obtained, or royalty paid for usage. Owner consent is usually still mandatory regardless. It does depend on which part of the world you are in as to what copyright laws apply. At FeedWind we generally err on the side of copyright law in the US and Europe.</p>
+<h3>Why we don&#8217;t offer a link editing feature</h3>
+<p>If we enabled a feature whereby users could change the link target, then although we would not be committing a crime, it is a feature that would enable others to do so. We have to respect the rights of content owners to reproduce their content without tampering or altering the content, or making it convenient for their content to be used for gain without appropriate permission. Quite likely, if we were to be seen to be doing so, we would not be popular with RSS feed publishers and content owners.</p>
+<h3>Disabling links is acceptable</h3>
+<p>It is possible however to disable links as this is an acceptable form of modification. Many webmasters may like to display 3rd party content but may not want their users to click-thru and leave their site. This can be achieved by using a <a href="https://feed.mikle.com/support/custom-css/" target="_blank" rel="noopener noreferrer">custom CSS</a> which includes &#8220;<span style="font-family: terminal, monaco, monospace;">pointer-events:none</span>&#8221; for feed item titles and links in the description.</p>
+<hr />
+<h3>References</h3>
+<p><a href="http://www.worldlaw.eu/article/3331/rss-feeds-copyright-law.html" target="_blank" rel="noopener noreferrer">https://www.worldlaw.eu/article/3331/rss-feeds-copyright-law.html</a></p>
+<p><a href="https://www.out-law.com/page-7843" target="_blank" rel="noopener noreferrer">https://www.out-law.com/page-7843</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Fair_use" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/Fair_use</a></p>
+<p><a href="https://www.rightsdirect.com/international-copyright-basics/" target="_blank" rel="noopener noreferrer">https://www.rightsdirect.com/international-copyright-basics/</a></p>
+<hr />
+]]></content:encoded>
+			</item>
+		<item>
+		<title>CSS for Google Calendar Event Date &#038; Time Elements</title>
+		<link>https://feed.mikle.com/blog/custom-google-calendar-widget</link>
+		<pubDate>Tue, 20 Jun 2017 00:34:51 +0000</pubDate>
+		<dc:creator><![CDATA[feedwind]]></dc:creator>
+				<category><![CDATA[Article]]></category>
+		<category><![CDATA[Resources]]></category>
+		<category><![CDATA[Tutorial]]></category>
+
+		<description><![CDATA[We have just introduced new classes for the Google Calendar widget date &#38; time components. These allow you to customize the date and time with CSS and achieve any styling you want. You can match your website style and make your Calendar Event date/time more prominent in the feed. This article focuses on the CSS<a class="read-more" href="https://feed.mikle.com/blog/">Read More</a>]]></description>
+				<content:encoded><![CDATA[<p><img class="size-full wp-image-770 alignright" src="https://feed.mikle.com/blog/wp-content/uploads/2017/06/gcal-example-custom-date-time.png" alt="custom google calendar widget" width="416" height="263" srcset="https://feed.mikle.com/blog/wp-content/uploads/2017/06/gcal-example-custom-date-time.png 416w, https://feed.mikle.com/blog/wp-content/uploads/2017/06/gcal-example-custom-date-time-300x190.png 300w" sizes="(max-width: 416px) 85vw, 416px" /><strong>We have just introduced new classes for the Google Calendar widget date &amp; time components.</strong></p>
+<p>These allow you to customize the date and time with CSS and achieve any styling you want. You can match your website style and make your Calendar Event date/time more prominent in the feed.</p>
+<p>This article focuses on the CSS used for the date/time components of your custom Google Calendar widget. You can find out more about how to use CSS to style the remaining widget components in our in-depth article on <a href="https://feed.mikle.com/support/custom-google-calendar-widget-using-css/" target="_blank" rel="noopener noreferrer">Google Calendar CSS</a>.</p>
+<h2>Custom Google Calendar Widget CSS Classes</h2>
+<p>These are the relevant classes for Google Calendar event date/time:</p>
+<hr />
+<h3>&#8216;Clock icon&#8217; class</h3>
+<p>This class is for the clock icon which appears alongside the date/time by default.</p>
+<p><strong><span style="color: #008000; font-family: terminal, monaco, monospace;">.fa.fa-clock-o</span></strong></p>
+<p><strong>Note &#8211; If you wish to hide this icon you can use:</strong></p>
+<p><strong><span style="font-family: terminal, monaco, monospace;">.fa.fa-clock-o {display:none!important;}</span></strong></p>
+<hr />
+<h3>&#8216;Time&#8217; class</h3>
+<p>The &#8216;Time&#8217; class styles the time element of the date/time.</p>
+<p><strong><span style="color: #008000; font-family: terminal, monaco, monospace;">.fw-gc-feed-item-time-only</span></strong></p>
+<hr />
+<h3>&#8216;Date&#8217; class</h3>
+<p>The &#8216;Date&#8217; class styles the date element of the date/time.</p>
+<p><strong><span style="color: #008000; font-family: terminal, monaco, monospace;">.fw-gc-feed-item-date-only</span></strong></p>
+<hr />
+<h3>&#8216;Date &amp; Time&#8217; class</h3>
+<p>This class styles both date and time components. Useful for adding a border around the whole date+time element, or to reposition the whole date+time element using margins.</p>
+<p><strong><span style="color: #008000; font-family: terminal, monaco, monospace;">.fw-gc-feed-item-date</span></strong></p>
+<hr />
+<p>Using these CSS classes you can create a widget such as the example below. You can find the full CSS used for this custom Gcal widget <a href="/support/custom-google-calendar-widget-using-css/" target="_blank" rel="noopener noreferrer">here</a>.</p>
+<p><!-- start feedwind code --> <script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" data-fw-param="88479/"></script> <!-- end feedwind code --></p>
+<hr />
+<p>If you need any assistance with customizing your Google Calendar widget, please <a href="https://feed.mikle.com/contact/">contact us</a> and we&#8217;ll be happy to help!</p>
+<hr />
+]]></content:encoded>
+			</item>
+		<item>
+		<title>May Newsletter</title>
+		<link>https://feed.mikle.com/blog/may-newsletter</link>
+		<pubDate>Wed, 31 May 2017 14:10:27 +0000</pubDate>
+		<dc:creator><![CDATA[feedwind]]></dc:creator>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[newsletter]]></category>
+		<category><![CDATA[payment automation]]></category>
+
+		<description><![CDATA[Check out the latest news from FeedWind in our May newsletter. This month we released a new Payment Automation feature and published some new articles to help you get the most out of FeedWind. Read the Feedwind May Newsletter &#160; &#160;]]></description>
+				<content:encoded><![CDATA[<p><img class="size-full wp-image-1076 alignright" src="https://feed.mikle.com/blog/wp-content/uploads/2017/05/fw-newslettter.jpg" alt="" width="200" height="200" srcset="https://feed.mikle.com/blog/wp-content/uploads/2017/05/fw-newslettter.jpg 200w, https://feed.mikle.com/blog/wp-content/uploads/2017/05/fw-newslettter-150x150.jpg 150w" sizes="(max-width: 200px) 85vw, 200px" /></p>
+<p>Check out the latest news from FeedWind in our May newsletter. This month we released a new Payment Automation feature and published some new articles to help you get the most out of FeedWind.</p>
+<p><a href="https://mailchi.mp/mikle/feedwind-may-newsletter" target="_blank" rel="noopener noreferrer">Read the Feedwind May Newsletter</a></p>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Increase widget load speed</title>
+		<link>https://feed.mikle.com/blog/widget-speed-factors-can-affect-performance</link>
+		<pubDate>Mon, 15 May 2017 00:02:56 +0000</pubDate>
+		<dc:creator><![CDATA[feedwind]]></dc:creator>
+				<category><![CDATA[Article]]></category>
+		<category><![CDATA[Tips]]></category>
+		<category><![CDATA[widget loading speed]]></category>
+		<category><![CDATA[widget performance]]></category>
+
+		<description><![CDATA[Your widget loading (and page loading speed) can be negatively affected by a number of factors, but there are also ways to increase widget load speed. We aim to provide the fastest RSS widget available, but there are limiting circumstances which are out of our control. We do apply caching of your widget and refresh<a class="read-more" href="https://feed.mikle.com/blog/">Read More</a>]]></description>
+				<content:encoded><![CDATA[<p><img class="size-full wp-image-1078 alignright" src="https://feed.mikle.com/blog/wp-content/uploads/2017/05/fw-load-speed.jpg" alt="" width="200" height="200" srcset="https://feed.mikle.com/blog/wp-content/uploads/2017/05/fw-load-speed.jpg 200w, https://feed.mikle.com/blog/wp-content/uploads/2017/05/fw-load-speed-150x150.jpg 150w" sizes="(max-width: 200px) 85vw, 200px" /><strong><em>Your widget loading (and page loading speed) can be negatively affected by a number of factors, but there are also ways to increase widget load speed. We aim to provide the fastest RSS widget available, but there are limiting circumstances which are out of our control. We do apply caching of your widget and refresh your widget cache every 15 minutes.</em></strong></p>
+<p>Some of the parameters used in the FeedWind setup screen can affect widget/page-loading performance and are detailed below.</p>
+<hr />
+<h3>Number of feed items</h3>
+<p>The more <a href="https://feed.mikle.com/support/feedwind-setup/" target="_blank" rel="noopener noreferrer">feed items</a> you specify in your widget setup, the longer it will take to load the widget as our server has to make more calls to the source feed server in order to obtain your content.</p>
+<p>The default setting is 15 feed items but you can increase this up to 99; please note however, that there is a proportional increase in load time for widget content as the number of items increases.</p>
+<hr />
+<h3>Text/Thumb/HTML Styles</h3>
+<p>The fastest load performance is achieved using the Text-only <a href="https://feed.mikle.com/support/style-setting/" target="_blank" rel="noopener noreferrer">widget style</a>. The Thumbnail option is next-fastest, with the HTML style loading slowest. Obviously the more media within the content, the slower a widget will load too.</p>
+<hr />
+<h3>Number of Characters in the Titles &amp; Content</h3>
+<p>The greater number of characters allowed in the content, the slower your widget performance will be as more data must be transferred. However, this is a minor influence on the widget load speed.</p>
+<hr />
+<h3>Feed URLs</h3>
+<p>The more <a href="https://feed.mikle.com/support/rss-feed-aggregation-add-rss-feeds/" target="_blank" rel="noopener noreferrer">feed URLs you aggregate</a> the slower your widget will load. To increase widget load speed, please limit the number of URLs you use in a widget.  Our system limits the number of feed URLs to 15 at present.</p>
+<p>When choosing feeds from third parties, it is important to choose those from sources whose servers can offer the same approximate response times. If you have a single feed in your multiple feeds list whose server is slow to respond, your widget will also be slow to refresh.</p>
+<hr />
+<h3>Custom CSS</h3>
+<p>Loading a <a href="https://feed.mikle.com/support/custom-css/" target="_blank" rel="noopener noreferrer">custom CSS</a> requires an external server call to wherever the CSS file is stored. This means that he widget cannot load until the server hosting the CSS responds and delivers the requested CSS data. This means that storing the CSS on the same server (preferably within the same directory structure of your site files). Caching the CSS file is also recommended.</p>
+<hr />
+<h3>Page Caching (plugins &amp; extensions)</h3>
+<p>These can vastly improve widget loading times as HTML, CSS and .js all of which are used with the FeedWind RSS widget. You must be careful not to set the cache refresh to more than 15 minutes however, otherwise users may not get the widget content refreshed during the FeedWind 15 minute refresh cycle.</p>
+<hr />
+<p>&nbsp;</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Using Dropbox to host CSS files</title>
+		<link>https://feed.mikle.com/blog/using-dropbox-to-host-css-files</link>
+		<pubDate>Mon, 08 May 2017 23:11:27 +0000</pubDate>
+		<dc:creator><![CDATA[feedwind]]></dc:creator>
+				<category><![CDATA[Article]]></category>
+		<category><![CDATA[Tips]]></category>
+
+		<description><![CDATA[How to host css stylesheets on Dropbox It’s easy to host CSS stylesheets on Dropbox where you can store a CSS file for a custom Feedwind widget without having to store a CSS file on your own server. This is particularly useful where you are using an online platform such as Wix or Weebly to<a class="read-more" href="https://feed.mikle.com/blog/">Read More</a>]]></description>
+				<content:encoded><![CDATA[<h1><b>How to host css stylesheets on Dropbox</b></h1>
+<p><span style="font-weight: 400;">It’s easy to host CSS stylesheets on <a href="https://www.dropbox.com/" target="_blank" rel="noopener noreferrer">Dropbox</a> where you can store a CSS file for a custom Feedwind widget without having to store a CSS file on your own server. This is particularly useful where you are using an online platform such as Wix or Weebly to build your site. Platforms like these do not have the facility for storing CSS files, so Dropbox is a great solution.</span></p>
+<p><span style="font-weight: 400;">First you need to create your custom CSS file. Depending on what sort of widget you a building (RSS widget, Facebook page widget or Google Calendar widget). You can use any code editor or plain text editor to create your CSS as explained in the relevant support documents for CSS. </span></p>
+<p><span style="font-weight: 400;">Once you have created your stylesheet and saved it as a .css file, you can then upload it to Dropbox for later use.</span></p>
+<div class="video">
+<iframe src="https://www.youtube.com/embed/Eum23G70owc" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<h2>Get the URL for your .css file</h2>
+<h3>On an Apple Mac</h3>
+<p><span style="font-weight: 400;">On an Apple Mac, Open your dropbox, and locate your .css file. Right-click on the file and select “Copy Public Link.” This will copy the publicly available URL for your .css file to your clipboard.</span></p>
+<p><img class="aligncenter size-full wp-image-655" src="https://feed.mikle.com/blog/wp-content/uploads/2017/05/dropbox03.jpg" alt="host css with dropbox" width="760" height="216" srcset="https://feed.mikle.com/blog/wp-content/uploads/2017/05/dropbox03.jpg 760w, https://feed.mikle.com/blog/wp-content/uploads/2017/05/dropbox03-300x85.jpg 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" /></p>
+<h3>In a windows-based browser</h3>
+<p>In a windows browser, Dropbox display things a little differently from the Apple Mac version or the Dropbox app. Below are example screenshots for the Windows browser:</p>
+<h3><img class="aligncenter size-full wp-image-653" src="https://feed.mikle.com/blog/wp-content/uploads/2017/05/dropbox01.jpg" alt="dropbox can host css files" width="760" height="222" srcset="https://feed.mikle.com/blog/wp-content/uploads/2017/05/dropbox01.jpg 760w, https://feed.mikle.com/blog/wp-content/uploads/2017/05/dropbox01-300x88.jpg 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" /></h3>
+<p>Grab the custom .css file link for use in Feedwind by clicking on the &#8220;<span style="color: #237ffc;">Share</span>&#8221; button alongside your .css file in the Dropbox file list. The following modal will appear:</p>
+<p><img class="aligncenter size-full wp-image-652" src="https://feed.mikle.com/blog/wp-content/uploads/2017/05/dropbox02.jpg" alt="use dropbox for css" width="607" height="508" srcset="https://feed.mikle.com/blog/wp-content/uploads/2017/05/dropbox02.jpg 607w, https://feed.mikle.com/blog/wp-content/uploads/2017/05/dropbox02-300x251.jpg 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" /></p>
+<h3>The URL will look something like this:</h3>
+<p><span style="font-family: terminal, monaco, monospace; color: #008000;"><span style="font-weight: 400;">https://www.dropbox.com/s/j0vdhe8owoolgh5/custom98.css?dl=0</span></span></p>
+<p><span style="font-weight: 400;">To use this URL in FeedWind you will need to make a small adjustment to the URL by changing the www. In the URL to dl. </span></p>
+<p><span style="font-weight: 400;">e.g.<span style="color: #008000;"> </span></span><span style="font-family: terminal, monaco, monospace; color: #008000;"><span style="font-weight: 400;">www.dropbox.com/../</span></span><span style="font-weight: 400;"> becomes </span><span style="font-family: terminal, monaco, monospace; color: #008000;"><span style="font-weight: 400;">https://dl.dropbox.com/../</span></span></p>
+<p>When you have your new URL e.g.</p>
+<p><span style="font-family: terminal, monaco, monospace; color: #008000;">https://dl.dropbox.com/s/j0vdhe8owoolgh5/custom98.css?dl=0</span></p>
+<p>You can then use this .css URL in your RSS, Google Calendar or Facebook page widget setup screens</p>
+<hr />
+<p>&nbsp;</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>? Check out the latest news from FeedWind!</title>
+		<link>https://feed.mikle.com/blog/__trashed-4</link>
+		<pubDate>Sun, 30 Apr 2017 03:13:16 +0000</pubDate>
+		<dc:creator><![CDATA[feedwind]]></dc:creator>
+				<category><![CDATA[Article]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[april 2017]]></category>
+		<category><![CDATA[newsletter]]></category>
+
+		<description><![CDATA[You can check out our April Newsletter here &#160; &#160; &#160;]]></description>
+				<content:encoded><![CDATA[<p><img class=" wp-image-1076 alignright" src="https://feed.mikle.com/blog/wp-content/uploads/2017/05/fw-newslettter.jpg" alt="" width="125" height="125" srcset="https://feed.mikle.com/blog/wp-content/uploads/2017/05/fw-newslettter.jpg 200w, https://feed.mikle.com/blog/wp-content/uploads/2017/05/fw-newslettter-150x150.jpg 150w" sizes="(max-width: 125px) 85vw, 125px" />You can check out our April Newsletter <a href="https://mailchi.mp/mikle/feedwind-april-newsletter" target="blank">here</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>What is FeedWind used for?</title>
+		<link>https://feed.mikle.com/blog/feedwind-rss-widget-uses</link>
+		<pubDate>Thu, 30 Mar 2017 22:12:58 +0000</pubDate>
+		<dc:creator><![CDATA[feedwind]]></dc:creator>
+				<category><![CDATA[Article]]></category>
+		<category><![CDATA[feedwind usage]]></category>
+
+		<description><![CDATA[FeedWind is an extremely versatile RSS widget. With support for so many platforms and implementations, Feedwind is the ideal solution for anyone who needs to display RSS feeds using a customizable widget. Here are some examples of how Feedwind can be used: Tickertape A traditional format consisting of a single line of horizontally scrolling text. These<a class="read-more" href="https://feed.mikle.com/blog/">Read More</a>]]></description>
+				<content:encoded><![CDATA[<style>
+.bluebut {background-color: #237ffc; color: white; border: none; font-weight: 300; font-size: 0.8em; padding: 0.7em 2em;border-radius: 15px;}<br />.bluebut a{text-decoration:none!important;color:white;"}<br />.bluebut hover{text-decoration:none!important;color:#eee;"}<br />.no_ul{text-decoration: none!important;}<br /></style>
+<p>FeedWind is an extremely versatile RSS widget. With support for so many platforms and implementations, Feedwind is the ideal solution for anyone who needs to display RSS feeds using a customizable widget. Here are some examples of how Feedwind can be used:</p>
+<div style="background-color: #d5e6ff; padding: 5% 3% 5% 3%; width: 750px:text-align:center; clear: both; margin: 0 auto;">
+<h3><img class="alignright" src="https://boatingonthehudson.files.wordpress.com/2012/08/index-funds-stock-ticker-tape-s600x600.jpg" alt="" width="229" height="135" /><span style="color: #237ffc;">Tickertape</span></h3>
+<p style="text-align: left;">A traditional format consisting of a single line of horizontally scrolling text. These are commonly used to display exchange rates, news headlines</p>
+<p style="text-align: left;"><a href="/blog/tickertape-widget/" target="_blank" rel="noopener noreferrer"><button style="margin-top: 10px; padding: 0.6em; background-color: #237ffc; color: white; border: none; font-weight: 300; font-size: 0.8em;" type="button">LEARN MORE</button></a></p>
+<div style="background-color: #d5d6ff; padding: 5% 0 5% 3%;">
+<h3><img class="alignright wp-image-532 " src="https://feed.mikle.com/blog/wp-content/uploads/2017/03/candycolor-169x300.jpeg" alt="" width="121" height="215" srcset="https://feed.mikle.com/blog/wp-content/uploads/2017/03/candycolor-169x300.jpeg 169w, https://feed.mikle.com/blog/wp-content/uploads/2017/03/candycolor.jpeg 423w" sizes="(max-width: 121px) 85vw, 121px" /><span style="color: #237ffc;">Custom colors and fonts</span></h3>
+<p>Match the color design of any website and match the fonts. Choose to do this from the FeedWind setup screen, or by using a custom CSS to define your own fonts or use webfonts.<br />
+<a href="https://feed.mikle.com/support/custom-css/" target="_blank" rel="noopener noreferrer"> <button style="padding: 0.6em; margin-top: 10px; background-color: #237ffc; color: white; border: none; font-weight: 300; font-size: 0.8em;" type="button">LEARN MORE</button></a></p>
+</div>
+<h3><img class="alignright" src="https://www.w3.org/TR/css-backgrounds-3/images/spread-blur.png" width="144" height="140" /><span style="color: #237ffc;">Custom shapes</span></h3>
+<p>Feedwind is so versatile, you can use a custom CSS to create any type of styling effect &#8211; need a circular widget &#8211; easy!<br />
+<a href="https://feed.mikle.com/support/widget-corner-radius/" target="_blank" rel="noopener noreferrer"> <button style="margin-top: 10px; padding: 0.6em; background-color: #237ffc; color: white; border: none; font-weight: 300; font-size: 0.8em;" type="button">LEARN MORE</button></a></p>
+<p>&nbsp;</p>
+<div style="background-color: #d5d6ff; padding: 5% 0 5% 3%;">
+<h3><img class="alignright" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzbzqEApqREjYE1_z4j4d3kyvkELud4XFjP5MzET8ewf22TO4orQ" width="180" height="122" /><span style="color: #237ffc;">Slideshow</span></h3>
+<p>Feedwind can be used to feed images into a horizontal scrolling slideshow. Ideal for a website banner which displays the latest news or other images.<br />
+<a href="https://feed.mikle.com/blog/horizontal-scroll-slideshow-banner/" target="_blank" rel="noopener noreferrer"> <button style="margin-top: 10px; padding: 0.6em; background-color: #237ffc; color: white; border: none; font-weight: 300; font-size: 0.8em;" type="button">LEARN MORE</button></a></p>
+</div>
+<h3><img class="alignright size-thumbnail wp-image-533" src="https://feed.mikle.com/blog/wp-content/uploads/2017/03/newsreader-150x150.png" alt="" width="150" height="150" /><span style="color: #237ffc;">News widget</span></h3>
+<p>Many web designers consider RSS feeds only as a source of news content. This is where FeedWind was born &#8211; our original widget was aimed at doing just that and we continue to provide the best RSS news widget available.<br />
+<a href="https://feed.mikle.com/support/rss-feed-sources-online-news-sites/" target="_blank" rel="noopener noreferrer"> <button style="margin-top: 10px; padding: 0.6em; background-color: #237ffc; color: white; border: none; font-weight: 300; font-size: 0.8em;" type="button">LEARN MORE<br />
+</button></a></p>
+<div style="background-color: #d5d6ff; padding: 5% 0 5% 3%;">
+<h3><img class="alignright size-full wp-image-535" src="https://feed.mikle.com/blog/wp-content/uploads/2017/03/summary.png" alt="" width="275" height="183" /><span style="color: #237ffc;">Blog summary</span></h3>
+<p><span style="padding-right: 3%;">Blogs like this one you are reading are great places for users to get insight into the topics you want to share.</span></p>
+<p>For a user to find an article of interest, they may be required to scroll through your blog or perform a search. Even with a summary, users can still have difficulty finding what they want. A FeedWind scrolling feed widget allows users to see a blog summary (as text only/thumbnail/full HTML) which auto-scrolls so they can find what they want with more ease.</p>
+<p><a href="https://feed.mikle.com/support/wordpress-rss/" target="_blank" rel="noopener noreferrer"> <button style="padding: 0.6em; background-color: #237ffc; color: white; border: none; font-weight: 300; font-size: 0.8em;" type="button">LEARN MORE</button></a></p>
+</div>
+</div>
+<p>&nbsp;</p>
+<hr />
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Supported site building platforms</title>
+		<link>https://feed.mikle.com/blog/working-site-building-platforms</link>
+		<pubDate>Tue, 28 Mar 2017 00:48:15 +0000</pubDate>
+		<dc:creator><![CDATA[feedwind]]></dc:creator>
+				<category><![CDATA[Article]]></category>
+		<category><![CDATA[Resources]]></category>
+		<category><![CDATA[platforms]]></category>
+
+		<description><![CDATA[The FeedWind RSS widget is suitable for many popular site building platforms, both on and offline. We support many website building platforms. Here is a list of those we have successfully tested and created support articles for: Online site building platforms / blogs Blogspot / Blogger Drupal Joomla MoonFruit Shopify SquareSpace Weebly Website.com Wix WordPress<a class="read-more" href="https://feed.mikle.com/blog/">Read More</a>]]></description>
+				<content:encoded><![CDATA[<p>The FeedWind RSS widget is suitable for many popular site building platforms, both on and offline. We support many website building platforms. Here is a list of those we have successfully tested and created support articles for:</p>
+<h3>Online site building platforms / blogs<img class="size-full wp-image-1084 alignright" src="https://feed.mikle.com/blog/wp-content/uploads/2017/03/fw-supported-browser.jpg" alt="" width="200" height="200" srcset="https://feed.mikle.com/blog/wp-content/uploads/2017/03/fw-supported-browser.jpg 200w, https://feed.mikle.com/blog/wp-content/uploads/2017/03/fw-supported-browser-150x150.jpg 150w" sizes="(max-width: 200px) 85vw, 200px" /></h3>
+<ul>
+<li><a href="https://feed.mikle.com/support/google-blogger-rss/">Blogspot / Blogger</a></li>
+<li><a href="https://feed.mikle.com/support/drupal-rss/">Drupal</a></li>
+<li><a href="/support/joomla-rss">Joomla</a></li>
+<li><a href="https://feed.mikle.com/support/moonfruit-rss/">MoonFruit</a></li>
+<li><a href="https://feed.mikle.com/support/quora-rss/">Shopify</a></li>
+<li><a href="https://feed.mikle.com/support/squarespace-rss/">SquareSpace</a></li>
+<li><a href="https://feed.mikle.com/support/weebly-rss/">Weebly</a></li>
+<li>Website.com</li>
+<li><a href="https://feed.mikle.com/support/wix-rss/">Wix</a></li>
+<li><a href="https://feed.mikle.com/support/wordpress-rss/">WordPress</a></li>
+</ul>
+<h3>Desktop website building software</h3>
+<ul>
+<li>Adobe Dreamweaver</li>
+<li>Adobe SiteBuilder</li>
+<li>Serif PagePlus</li>
+</ul>
+<p>Online site building platforms come in various configurations with free, paid and freemium versions available. One of the features that can differentiate between a paid version and a free version is the availability of a HTML module &#8211; i.e. an input area (usually within the text editor, or a web building/code module where HTML can be pasted.</p>
+<p>The FeedWind code provided from our setup screen after a widget has been created and saved, is suitable for pasting into these input areas.</p>
+<h3>Make sure you paste our code into the right editor</h3>
+<p>The text editor found on many platforms has an alternative view which allows you to view/edit HTML. When the text editor supports HTML, these are usually available as a link from the editor menu which looks like one of these examples</p>
+<p><span style="font-family: arial, helvetica, sans-serif;"><strong><span style="border: 1px solid #237ffc; padding: 4px; color: #666666;">&lt; &gt;</span></strong></span>  or  <span style="font-family: arial, helvetica, sans-serif;"><strong><span style="border: 1px solid #237ffc; padding: 4px; color: #666666;">&lt;/&gt;</span></strong></span>  or   <strong><span style="border: 1px solid #237ffc; padding: 4px; color: #666666; font-family: arial, helvetica, sans-serif;">&lt;HTML&gt;</span></strong>   or  <strong><span style="border: 1px solid #237ffc; padding: 4px; border-radius: 5px 5px 0px 0px; color: #666666; font-family: arial, helvetica, sans-serif;">Source</span></strong> or in WordPress, the  <strong><span style="border: 1px solid #237ffc; padding: 4px; border-radius: 5px 5px 0px 0px; color: #666666; font-family: arial, helvetica, sans-serif;">Text</span></strong> tab of your page/post editor.</p>
+<p>When the editor opens, you will be able to paste the FeedWind code you have copied from the setup screen.</p>
+<p>If you attempt to copy the FeedWind code into a formatting editor (WYSIWIG-style editor), you will simply see the code displayed instead of the widget. The right editor must be used in order for FeedWind to work correctly.</p>
+<p><strong>If you are not sure where to place your code in your site builder, please <a href="https://feed.mikle.com/contact/" target="_blank" rel="noopener noreferrer">contact us</a> and include the name of your site builder in the contact request details.</strong></p>
+<hr />
+<p>&nbsp;</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>MARCH NEWSLETTER</title>
+		<link>https://feed.mikle.com/blog/march-newsletter</link>
+		<pubDate>Mon, 27 Mar 2017 22:41:11 +0000</pubDate>
+		<dc:creator><![CDATA[feedwind]]></dc:creator>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[newsletter]]></category>
+
+		<description><![CDATA[The latest news and tips from the FeedWind team This month we have been improving a number of aspects of Feedwind operation and features. We are focusing on extending Facebook widget features and upgrading our Pro subscription system. As always, we are increasing the support content available for users with new articles and an upcoming<a class="read-more" href="https://feed.mikle.com/blog/">Read More</a>]]></description>
+				<content:encoded><![CDATA[<h1 style="text-align: center;"><img src="https://gallery.mailchimp.com/0433fcbd2a33adea54ec81100/images/4ed928e9-ca5b-4419-8ae4-ec0802c6864d.png" /></h1>
+<h1 style="text-align: center;"><span style="color: #237ffc;">The latest news and tips from the FeedWind team</span></h1>
+<p style="margin-left: 10%; margin-right: 10%;"><em>This month we have been improving a number of aspects of Feedwind operation and features. We are focusing on extending Facebook widget features and upgrading our Pro subscription system. As always, we are increasing the support content available for users with new articles and an upcoming FeedWind blog.</em></p>
+<hr style="height: 1px; color: #237ffc; background-color: #237ffc; border: none;" />
+<h2 style="text-align: center;"><span style="color: #237ffc;">NEW FEATURES FOR MARCH<img class="alignright" src="https://gallery.mailchimp.com/0433fcbd2a33adea54ec81100/images/0de5d0cf-e171-41f0-89fe-268189c01782.png" /></span></h2>
+<p><strong>Payment Automation</strong> Currently we activate Pro accounts manually which causes a delay in removal of the &#8220;<em>Powered by FeedWind</em>&#8221; branding and the dashboard update to allow 20 widgets to be saved.</p>
+<p>We know this has occasionally been an inconvenience to some of our users (and apologize to any affected), so we are implementing an automated system for new Pro users.</p>
+<p><em><strong>With this update, activation will be automatic and applied as soon as the subscription has been made.</strong></em> <strong>Facebook Horizontal Scroll</strong> We released <a href="https://feed.mikle.com/support/vertical-horizontal-scroll-rss/">horizontal scroll for RSS widgets</a> in February &#8211; a great hit with our RSS widget users.</p>
+<p>This month we are adding horizontal scroll functionality to our <a href="https://feed.mikle.com/support/create-facebook-widget/">Facebook widget</a> too. <strong><em>Share your Facebook feed in a slideshow using a FeedWind horizontal feed widget! </em></strong> <strong>You can stay up to date with the latest information on feature releases by visiting our <a href="https://www.facebook.com/FeedWind/" target="_blank">Facebook page</a>.</strong></p>
+<hr style="height: 1px; color: #237ffc; background-color: #237ffc; border: none;" />
+<h2 style="text-align: center;"><span style="color: #237ffc;">COMING SOON</span></h2>
+<p><strong>Google Calendar support</strong> We are already working on many new features due for release over the coming months. On the near horizon is support for Google Calendar, a long-awaited release which should be available during April.<strong>Our new blog </strong> In the next week or so we are releasing our new blog (this article is on it) which will contain handy tips and tricks, Feedwind news and other resources to help our users get the most out of Feedwind and their RSS feeds.</p>
+<hr style="height: 1px; color: #237ffc; background-color: #237ffc; border: none;" />
+<h2 style="text-align: center;"><span style="color: #237ffc;">SUPPORT NEWS</span></h2>
+<p><strong>Create an iTunes widget</strong> iTunes has an RSS feed generator with custom parameters so you can easily create an iTunes widget in just minutes with custom content. Using Feedwind setup, you can add custom styling to your widget. Read <a href="https://feed.mikle.com/support/itunes-rss-widget/">this new article</a> for more information on how to create an iTunes widget. <strong>Other platforms we support</strong> FeedWind supports many online platforms in addition to iTunes. You can find out more about which ones we have tested and how to use them here at our <a href="https://feed.mikle.com/support/">support pages</a>. If you think we should include other platforms in the support section, please <a href="https://feed.mikle.com/contact/">let us know</a>.</p>
+<hr style="height: 1px; color: #237ffc; background-color: #237ffc; border: none;" />
+<h2 style="text-align: center;"><span style="color: #237ffc;">AND FINALLY..</span></h2>
+<p><strong>We always love to hear from you – your feedback is what enlightens and enables us to create the best possible feed widget. </strong></p>
+<p><strong>If you have any comments or suggestions about FeedWind, please do not hesitate to <a href="https://feed.mikle.com/contact/">contact us</a></strong></p>
+<hr />
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>RSS slideshow banner</title>
+		<link>https://feed.mikle.com/blog/horizontal-scroll-slideshow-banner</link>
+		<pubDate>Sat, 04 Mar 2017 00:54:31 +0000</pubDate>
+		<dc:creator><![CDATA[feedwind]]></dc:creator>
+				<category><![CDATA[Article]]></category>
+		<category><![CDATA[Features]]></category>
+		<category><![CDATA[horizontal scroll rss widget]]></category>
+		<category><![CDATA[rss slideshow]]></category>
+
+		<description><![CDATA[Using horizontal scroll, you can create RSS slideshow banners which use an RSS feed to supply the source slides. When used on a website as a banner, you can control the banner content using RSS feeds and have it update automatically with your latest media and content. You can also overlay logos and messages above<a class="read-more" href="https://feed.mikle.com/blog/">Read More</a>]]></description>
+				<content:encoded><![CDATA[<p>Using <a href="https://feed.mikle.com/support/vertical-horizontal-scroll-rss/" target="_blank" rel="noopener noreferrer">horizontal scroll</a>, you can create RSS slideshow banners which use an RSS feed to supply the source slides. When used on a website as a banner, you can control the banner content using RSS feeds and have it update automatically with your latest media and content. You can also overlay logos and messages above your slideshow widget as in the example below.</p>
+<p>This RSS slideshow widget was created using HTML plus some inline CSS for the overlaid text, and a horizontal scroll widget in the background, using z-index: to control the layers. The feed is from a series of posts which simply contain images. The horizontal scrolling widget  in the example below uses the <a href="https://feed.mikle.com/support/iframe-rss-widget/" target="_blank" rel="noopener noreferrer">iFrame version</a> of feedWind, but there are alternative solutions which can use the regular code.</p>
+<h2 style="text-align: center;">RSS SLIDESHOW BANNER EXAMPLE</h2>
+<div style="width: 100%; position: absolute; z-index: 1; left: 0; clear: both; display: block; height: 600px; margin-bottom: 250px;">
+<p><!-- start feedwind code --> <script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" data-fw-param="88114/"></script> <!-- end feedwind code --></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div>
+<h1 style="font-size: 60px; position: absolute; color: #ff0db8; font-weight: 800; top: 50px; left: 170px; z-index: 10; text-shadow: 6px 6px 12px rgba(0,0,0,0.5); font-family: Arial, Helvetica, sans-serif;">COLOR SALON</h1>
+<h2 style="font-size: 40px; position: absolute; font-weight: 100; color: #fff; top: 60px; left: 250px; z-index: 10; padding-left: 100px; text-shadow: 4px 4px 10px #fff; font-family: Arial, Helvetica, sans-serif;">Love your style</h2>
+<p><img class="alignnone" style="position: absolute; border: 0 solid #fff; margin: 20px 0 0 20px; top: 20px; left: 0; z-index: 20; box-shadow: 5px 5px 20px #eee; width: 80px; height: 80px;" src="https://feed.mikle.com/blog/wp-content/uploads/2017/03/Fwlogo_small-translucent.png" alt="feedwind rss slideshow widget" width="200" height="200" /></p>
+</div>
+</div>
+<div style="height: 250px;"></div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<hr />
+]]></content:encoded>
+			</item>
+		<item>
+		<title>HTML RSS news ticker widget</title>
+		<link>https://feed.mikle.com/blog/tickertape-widget</link>
+		<pubDate>Fri, 03 Mar 2017 02:12:32 +0000</pubDate>
+		<dc:creator><![CDATA[feedwind]]></dc:creator>
+				<category><![CDATA[Article]]></category>
+		<category><![CDATA[Features]]></category>
+		<category><![CDATA[Tutorial]]></category>
+		<category><![CDATA[horizontal scroll rss widget]]></category>
+		<category><![CDATA[HTML ticker widget]]></category>
+		<category><![CDATA[RSS ticker widget]]></category>
+		<category><![CDATA[ticker tape]]></category>
+		<category><![CDATA[ticker widget]]></category>
+		<category><![CDATA[tickertape widget]]></category>
+
+		<description><![CDATA[The RSS ticker (single-line) widget An RSS ticker widget consists of a single line of text scrolling horizontally. They are often used to display stock prices, exchange rates, latest news etc. This widget layout is based on the old teleprinter machines which printed text onto ticker tape, a narrow strip of paper on a roll.<a class="read-more" href="https://feed.mikle.com/blog/">Read More</a>]]></description>
+				<content:encoded><![CDATA[<h2><span style="font-weight: 400;">The RSS ticker (single-line) widget</span></h2>
+<p><img class=" wp-image-552 alignright" src="https://feed.mikle.com/blog/wp-content/uploads/2017/03/ticker.png" alt="tickertape widget" width="263" height="117" srcset="https://feed.mikle.com/blog/wp-content/uploads/2017/03/ticker.png 450w, https://feed.mikle.com/blog/wp-content/uploads/2017/03/ticker-300x133.png 300w" sizes="(max-width: 263px) 85vw, 263px" /></p>
+<p><span style="font-weight: 400;">An RSS ticker widget consists of a single line of text scrolling horizontally. They are often used to display stock prices, exchange rates, latest news etc. This widget layout is based on the old teleprinter machines which printed text onto <a href="https://en.wikipedia.org/wiki/Ticker_tape" target="_blank" rel="noopener noreferrer">ticker tape</a>, a narrow strip of paper on a roll. </span></p>
+<h3>What is an RSS ticker widget used for?</h3>
+<p><span style="font-weight: 400;">News ticker widgets are commonly used to display stock prices, exchange rates and news headlines; although they can also serve many other uses. They also use less screen space than a regular widget as the information displayed at any one time is limited to the width of the widget and only one line of characters. Ticker widgets make useful banners for other page elements too.</span></p>
+<p><!-- start feedwind code --> <script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" data-fw-param="88477/"></script> <!-- end feedwind code --></p>
+<p>The above example is a Reuters feed. It was created using this custom CSS which corrects the position of the time/date and applies a gradient background. The setup screen had these settings:</p>
+<h4>The following settings in the <a href="https://feed.mikle.com/" target="_blank" rel="noopener noreferrer">FeedWind setup screen</a> Are important:</h4>
+<table style="height: auto;" width="760" cellpadding="10">
+<tbody>
+<tr style="background-color: #808080;">
+<td style="width: 25%;"><span style="color: #ffffff;"><strong>Setup page item</strong></span></td>
+<td style="width: 25%; text-align: center;"><span style="color: #ffffff;"><strong>Setting</strong></span></td>
+<td style="width: 50%;"><span style="color: #ffffff;"><strong>Notes</strong></span></td>
+</tr>
+<tr style="background-color: #f2f2f2;">
+<td>Height &#8211; (No of feed items)</td>
+<td style="text-align: center;">1</td>
+<td>Maintains a single line tickertape</td>
+</tr>
+<tr>
+<td>Width</td>
+<td style="text-align: center;">As required &#8211; in px or responsive</td>
+<td>Ensure the title/content characters fit into one line. Otherwise, text wrapping occurs which requires a taller widget</td>
+</tr>
+<tr style="background-color: #f2f2f2;">
+<td>Scroll type</td>
+<td style="text-align: center;">Horizontal</td>
+<td>A ticker widget requires horizontal scroll. It would be possible to create a vertical scrolling tickertape, however these are very limited in use as the content is more difficult for your users to read.</td>
+</tr>
+<tr>
+<td>Style</td>
+<td style="text-align: center;">Text</td>
+<td>This is the only style which works for a news ticker widget layout</td>
+</tr>
+<tr style="background-color: #f2f2f2;">
+<td>Feed title characters</td>
+<td style="text-align: center;">100</td>
+<td>Ensure the whole title fits on one line for the widget width you have specified</td>
+</tr>
+<tr>
+<td>Display content</td>
+<td style="text-align: center;">Title only</td>
+<td>You could use “Content-only” too, but not Title+Content. This is because there would be a carriage return between the title and the content. In this example we are trying to fit the text into a single line within the widget width without text-wrapping.</td>
+</tr>
+<tr style="background-color: #f2f2f2;">
+<td>Time/Date</td>
+<td style="text-align: center;">Off</td>
+<td>This can be switched ON/OFF as required</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;"></span></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Welcome to the new FeedWind blog</title>
+		<link>https://feed.mikle.com/blog/welcome-to-our-new-blog-pages</link>
+		<pubDate>Tue, 28 Feb 2017 00:12:37 +0000</pubDate>
+		<dc:creator><![CDATA[feedwind]]></dc:creator>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[feedwind blog]]></category>
+		<category><![CDATA[welcome]]></category>
+
+		<description><![CDATA[In addition to our regular support documentation, the FeedWind blog provides users with additional information about new features, general news and some articles to help you make the most out of FeedWind. Since v2 was released there has been a lot of activity from the development team, with a new Facebook widget added to our features.<a class="read-more" href="https://feed.mikle.com/blog/">Read More</a>]]></description>
+				<content:encoded><![CDATA[<p><img class="aligncenter size-full wp-image-714" src="https://feed.mikle.com/blog/wp-content/uploads/2017/02/welcome-to-feedwind-1.jpg" alt="feedwind blog" width="760" height="340" srcset="https://feed.mikle.com/blog/wp-content/uploads/2017/02/welcome-to-feedwind-1.jpg 760w, https://feed.mikle.com/blog/wp-content/uploads/2017/02/welcome-to-feedwind-1-300x134.jpg 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" /></p>
+<p>In addition to our regular <a href="https://feed.mikle.com/support/">support documentation</a>, the FeedWind blog provides users with additional information about new features, general news and some articles to help you make the most out of FeedWind.</p>
+<p>Since v2 was released there has been a lot of activity from the development team, with a new <a href="https://feed.mikle.com/support/create-facebook-widget/">Facebook widget</a> added to our features. We also released the long-awaited <a href="https://feed.mikle.com/support/vertical-horizontal-scroll-rss/">horizontal scrolling</a>, automated payments and Google Calendar support due for release very soon now.</p>
+<p>Keep up with our progress by bookmarking this blog in your browser, Liking our <a href="https://www.facebook.com/FeedWind/" target="_blank" rel="noopener noreferrer">Facebook page</a> or following us on <a href="https://twitter.com/feedwind" target="_blank" rel="noopener noreferrer">Twitter</a>.</p>
+<p style="text-align: center;"><em>Make sure you stay up to date with the latest information with the FeedWind blog.</em></p>
+<hr />
+<p>&nbsp;</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.672 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2020-07-22 05:58:32 -->
