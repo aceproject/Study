@@ -61,6 +61,9 @@
 
       if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
         container.className = "unity-mobile";
+        alert(window.devicePixelRatio);
+        alert(canvas.style.width);
+        alert(canvas.style.height);
         const scale = window.devicePixelRatio || 1;
         canvas.style.width = canvas.style.width * scale;
         canvas.style.height = canvas.style.height * scale;
