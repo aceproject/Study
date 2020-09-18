@@ -23,6 +23,10 @@
       </div>
     </div>
     <script>
+      if (window.screen.orientation.lock) {
+        window.screen.orientation.lock.call(window.screen.orientation, 'landscape');
+      }
+
       var buildUrl = "Build";
       var loaderUrl = buildUrl + "/game.loader.js";
       var config = {
