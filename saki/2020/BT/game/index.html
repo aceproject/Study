@@ -6,6 +6,16 @@
     <title>Unity WebGL Player | BlackTree</title>
     <link rel="shortcut icon" href="TemplateData/favicon.ico">
     <link rel="stylesheet" href="TemplateData/style.css">
+    <style type="text/css">
+    #warning-message { display: none; }
+    @media only screen and (orientation:portrait){
+        #unity-container { display:none; }
+        #warning-message { display:block; }
+    }
+    @media only screen and (orientation:landscape){
+      #warning-message { display:none; }
+    }
+    </style>
   </head>
   <body>
     <div id="unity-container" class="unity-desktop">
@@ -22,11 +32,8 @@
         <div id="unity-build-title">BlackTree</div>
       </div>
     </div>
+    <div id="warning-message"></div>
     <script>
-      if (window.screen.orientation.lock) {
-        window.screen.orientation.lock.call(window.screen.orientation, 'landscape');
-      }
-
       var buildUrl = "Build";
       var loaderUrl = buildUrl + "/game.loader.js";
       var config = {
@@ -69,6 +76,11 @@
         });
       };
       document.body.appendChild(script);
+      var warning = document.querySelector("#warning-message");
+      var width = warning.offsetWidth;
+      if (width > 100) {
+        alert("自動回転をオンにして横向きで遊んでね。わからないときは、かあちゃんにきいてみよう！");
+      }
     </script>
   </body>
 </html>
