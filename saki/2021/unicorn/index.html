@@ -26,9 +26,9 @@
       var buildUrl = "Build";
       var loaderUrl = buildUrl + "/unicorn.loader.js";
       var config = {
-        dataUrl: buildUrl + "/unicorn.data.br",
-        frameworkUrl: buildUrl + "/unicorn.framework.js.br",
-        codeUrl: buildUrl + "/unicorn.wasm.br",
+        dataUrl: buildUrl + "/unicorn.data.unityweb",
+        frameworkUrl: buildUrl + "/unicorn.framework.js.unityweb",
+        codeUrl: buildUrl + "/unicorn.wasm.unityweb",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "DefaultCompany",
         productName: "Unicorn",
@@ -45,8 +45,8 @@
         container.className = "unity-mobile";
         config.devicePixelRatio = 1;
       } else {
-        canvas.style.width = "960px";
-        canvas.style.height = "600px";
+        canvas.style.width = "1080px";
+        canvas.style.height = "2520px";
       }
       loadingBar.style.display = "block";
 
